@@ -2,25 +2,27 @@
 /* CSS Document */
 
 #mainHeadBox {
-	width: 800px;
+	width: 1000px;
 	height:50px;
 	backgroundcolor: #FFFFFF;
 	padding:10px;
-	
+	margin-left: 300px;
 	
 }
 #mainBodyBox {
-	height: 8000px;
+	height: auto;
 	backgroundcolor: #FFFFFF;
 	padding:10px;
-	
+	margin-right: auto;
+	margin-left: 300px;
 	
 }
 #mainPicBox {
-	height:300px;
-	width: 300px;
+	height:400px;
+	width: 400px;
 	padding: 10px;
 	float: right;
+	margin-left:200px;
 }
 
 
